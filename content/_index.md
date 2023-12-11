@@ -11,8 +11,7 @@ draft: false
 Alto is a minimal and modern Hugo theme for static documentation sites, created by and optimized for <a target="_blank" rel="noopener" href="https://cloudcannon.com">CloudCannon</a>.
 
 {{<diffcode>}}
-```
-js
+```js
 new PagefindUI({
     element: "#search",
 +    mergeIndex: [{
